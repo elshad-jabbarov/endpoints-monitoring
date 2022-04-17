@@ -1,4 +1,19 @@
 
+# Enpoints monitoring
+
+Java microservice which allows you to monitor
+particular http/https URLs
+
+
+## Installation
+
+
+
+```bash
+  docker-compose up    
+```
+
+
 
 ## API Reference for Users
 
